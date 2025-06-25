@@ -1,7 +1,7 @@
 ### Virtual-fit-clothing-store
 ### 👑 amRoyalty
 
-Welcome to **amRoyalty**, a unique clothing brand that celebrates **individuality, identity, and representation**. At amRoyalty, we believe everyone is royalty — our designs are crafted to empower you to **stand out and confidently express your true self.**
+Welcome to **amRoyalty**, a unique clothing brand that celebrates **individuality, identity, and representation**. At amRoyalty, we believe everyone is royalty our designs are crafted to empower you to **stand out and confidently express your true self.**
 
 ### 🌟 Project Overview
 
